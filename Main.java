@@ -32,5 +32,5 @@ public class Main{
      }
     System.out.println("Thank you for shopping here, have a nice day!");
   }
-}
+}//hi
 //was gonna do it so you could pick your own groceries up to 10, wasn't sure how to go about it without reconsructing the entire thing so i just stuck to the base code
